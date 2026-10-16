@@ -1,0 +1,48 @@
+{
+  "exportedAt": "2026-10-16T09:31:02.0228090Z",
+  "totalActiveMods": 7,
+  "mods": [
+    {
+      "author": "Captolamia",
+      "name": "[CAP] Rimworld Interactive Chat Service",
+      "steamId": "3603078790",
+      "version": "1.54.0"
+    },
+    {
+      "author": "AlexDrake",
+      "name": "[CAP] Rimworld Interactive Chat Service - RU (РУ перевод)",
+      "steamId": "3666703929",
+      "version": null
+    },
+    {
+      "author": "Ludeon Studios",
+      "name": "Biotech",
+      "steamId": null,
+      "version": null
+    },
+    {
+      "author": "Ludeon Studios",
+      "name": "Core",
+      "steamId": null,
+      "version": null
+    },
+    {
+      "author": "Andreas Pardeike",
+      "name": "Harmony",
+      "steamId": "2009463077",
+      "version": "3.0.1.0"
+    },
+    {
+      "author": "Ludeon Studios",
+      "name": "Ideology",
+      "steamId": null,
+      "version": null
+    },
+    {
+      "author": "Ludeon Studios",
+      "name": "Odyssey",
+      "steamId": null,
+      "version": null
+    }
+  ]
+}
